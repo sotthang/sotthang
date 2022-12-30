@@ -1,6 +1,4 @@
-# 자기소개
-
-개발자가 되고 싶은 소땡
+# It's me
 
 <img src="https://img.shields.io/badge/Python-black?style=flat&logo=Python&logoColor=3776AB"/>
 
