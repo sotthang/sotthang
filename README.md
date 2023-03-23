@@ -8,6 +8,8 @@
 
 <img src="https://img.shields.io/badge/JS-black?style=flat&logo=JAVASCRIPT&logoColor=F7DF1E"/>
 
+<img src="https://img.shields.io/badge/Bootstrap-black?style=flat&logo=bootstrap&logoColor=7952B3"/>
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sotthang&show_icons=true&theme=tokyonight)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sotthang&layout=compact&theme=tokyonight)
