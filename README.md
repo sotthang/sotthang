@@ -10,6 +10,12 @@
 
 <img src="https://img.shields.io/badge/Bootstrap-black?style=flat&logo=bootstrap&logoColor=7952B3"/>
 
+<img src="https://img.shields.io/badge/mysql-black?style=flat&logo=mysql&logoColor=4479A1"/>
+
+<img src="https://img.shields.io/badge/slack-black?style=flat&logo=slack&logoColor=4A154B"/>
+
+<img src="https://img.shields.io/badge/jirasoftware-black?style=flat&logo=jirasoftware&logoColor=0052CC"/>
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sotthang&show_icons=true&theme=tokyonight)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sotthang&layout=compact&theme=tokyonight)
