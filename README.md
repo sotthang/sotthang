@@ -2,6 +2,8 @@
 
 <img src="https://img.shields.io/badge/Python-black?style=flat&logo=Python&logoColor=3776AB"/>
 
+<img src="https://img.shields.io/badge/Django-black?style=flat&logo=Django&logoColor=092E20"/>
+
 <img src="https://img.shields.io/badge/HTML-black?style=flat&logo=HTML5&logoColor=E34F26"/>
 
 <img src="https://img.shields.io/badge/CSS-black?style=flat&logo=CSS3&logoColor=1572B6"/>
