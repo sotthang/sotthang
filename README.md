@@ -14,7 +14,7 @@
 
 <img src="https://img.shields.io/badge/Tailwindcss-black?style=flat&logo=tailwindcss&logoColor=06B6D4"/>
 
-<img src="https://img.shields.io/badge/Mysql-black?style=flat&logo=mysql&logoColor=4479A1"/>
+<img src="https://img.shields.io/badge/MySQL-black?style=flat&logo=mysql&logoColor=4479A1"/>
 
 <img src="https://img.shields.io/badge/Linux-black?style=flat&logo=linux&logoColor=FCC624"/>
 
