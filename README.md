@@ -12,11 +12,19 @@
 
 <img src="https://img.shields.io/badge/Bootstrap-black?style=flat&logo=bootstrap&logoColor=7952B3"/>
 
-<img src="https://img.shields.io/badge/mysql-black?style=flat&logo=mysql&logoColor=4479A1"/>
+<img src="https://img.shields.io/badge/Tailwindcss-black?style=flat&logo=tailwindcss&logoColor=06B6D4"/>
 
-<img src="https://img.shields.io/badge/slack-black?style=flat&logo=slack&logoColor=4A154B"/>
+<img src="https://img.shields.io/badge/Mysql-black?style=flat&logo=mysql&logoColor=4479A1"/>
 
-<img src="https://img.shields.io/badge/jirasoftware-black?style=flat&logo=jirasoftware&logoColor=0052CC"/>
+<img src="https://img.shields.io/badge/Linux-black?style=flat&logo=linux&logoColor=FCC624"/>
+
+<img src="https://img.shields.io/badge/Slack-black?style=flat&logo=slack&logoColor=4A154B"/>
+
+<img src="https://img.shields.io/badge/Notion-black?style=flat&logo=notion&logoColor=FFFFFF"/>
+
+<img src="https://img.shields.io/badge/Figma-black?style=flat&logo=figma&logoColor=F24E1E"/>
+
+<img src="https://img.shields.io/badge/Jirasoftware-black?style=flat&logo=jirasoftware&logoColor=0052CC"/>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sotthang&show_icons=true&theme=tokyonight)
 
